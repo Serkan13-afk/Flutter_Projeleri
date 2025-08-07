@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "664898614852",
+    "project_id": "futboltakipuyg-4a3aa",
+    "storage_bucket": "futboltakipuyg-4a3aa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664898614852:android:d4da1f73b47a65c735ee11",
+        "android_client_info": {
+          "package_name": "com.example.futbol_takipuyg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQCrSOx148YJNnGAaet20QwkhnAAmwyAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
