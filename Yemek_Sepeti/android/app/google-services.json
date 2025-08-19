@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1034035420035",
+    "project_id": "yemeksiparis-28267",
+    "storage_bucket": "yemeksiparis-28267.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034035420035:android:ea0c3335313b9ee3e374b6",
+        "android_client_info": {
+          "package_name": "com.example.yemek_siparis_uyg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD76Ww_ONYZEiBbhlqY-TFdENiS3QTQS-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
