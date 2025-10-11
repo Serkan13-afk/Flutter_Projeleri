@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030335425913",
+    "project_id": "havadurumuapp-8fb33",
+    "storage_bucket": "havadurumuapp-8fb33.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030335425913:android:abd17e4c077b43a58453a8",
+        "android_client_info": {
+          "package_name": "com.example.havadurumu_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB1HLoHspvJsHbXJ9o47WQcnSt0pa1uz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
