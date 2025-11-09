@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "178709498165",
+    "project_id": "muzikapp-6f967",
+    "storage_bucket": "muzikapp-6f967.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178709498165:android:9d70a26834f2aeea6d647c",
+        "android_client_info": {
+          "package_name": "com.example.muzikcalar_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7xDYFTmbTGE6TGouLbzdWyxqEF98rZes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

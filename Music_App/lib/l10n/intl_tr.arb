@@ -1,0 +1,29 @@
+{
+  "@@locale": "tr",
+  "cikis": "Çıkış",
+  "girisyaziisi" : "\uD83C\uDFA7 Ruhunun ritmini yakala.\\nGiriş yap ve müziğin büyüsüne kapıl!",
+  "kayityaziisi" : "\uD83C\uDF1F Kendi müzik evrenini oluştur.\\nKayıt ol, melodilerinle dünyanı renklendir!",
+  "giris" : "\uD83C\uDFA7 Ruhunun ritmini yakala.\\nGiriş yap ve müziğin büyüsüne kapıl!",
+  "kayit" : "\uD83C\uDFA7 Ruhunun ritmini yakala.\\nGiriş yap ve müziğin büyüsüne kapıl!",
+  "mailadresinizigirin" : "\uD83C\uDFA7 Ruhunun ritmini yakala.\\nGiriş yap ve müziğin büyüsüne kapıl!",
+  "girisyap" : "\uD83C\uDFA7 Ruhunun ritmini yakala.\\nGiriş yap ve müziğin büyüsüne kapıl!",
+  "sifremiunuttum" : "\uD83C\uDFA7 Ruhunun ritmini yakala.\\nGiriş yap ve müziğin büyüsüne kapıl!",
+  "sifrenisifirla" : "\uD83C\uDFA7 Ruhunun ritmini yakala.\\nGiriş yap ve müziğin büyüsüne kapıl!",
+  "sifreyigonder" : "\uD83C\uDFA7 Ruhunun ritmini yakala.\\nGiriş yap ve müziğin büyüsüne kapıl!",
+  "sifresifirlamaMailigonderildi" : "\uD83C\uDFA7 Ruhunun ritmini yakala.\\nGiriş yap ve müziğin büyüsüne kapıl!",
+
+  "bosalanlarvartekrardene" : "\uD83C\uDFA7 Ruhunun ritmini yakala.\\nGiriş yap ve müziğin büyüsüne kapıl!",
+  "adinizigirin" : "\uD83C\uDFA7 Ruhunun ritmini yakala.\\nGiriş yap ve müziğin büyüsüne kapıl!",
+  "sifreniziolusturun" : "\uD83C\uDFA7 Ruhunun ritmini yakala.\\nGiriş yap ve müziğin büyüsüne kapıl!",
+  "kayitol" : "\uD83C\uDFA7 Ruhunun ritmini yakala.\\nGiriş yap ve müziğin büyüsüne kapıl!",
+  "sifrenizigirin" : "\uD83C\uDFA7 Ruhunun ritmini yakala.\\nGiriş yap ve müziğin büyüsüne kapıl!",
+  "basarilibirsekildegirisyaptiniz" : "\uD83C\uDFA7 Ruhunun ritmini yakala.\\nGiriş yap ve müziğin büyüsüne kapıl!",
+  "birhataolustu" : "\uD83C\uDFA7 Ruhunun ritmini yakala.\\nGiriş yap ve müziğin büyüsüne kapıl!",
+  "kayitislemibasarili" : "\uD83C\uDFA7 Ruhunun ritmini yakala.\\nGiriş yap ve müziğin büyüsüne kapıl!",
+  "gecerlibirmaililetekrardene" : "\uD83C\uDFA7 Ruhunun ritmini yakala.\\nGiriş yap ve müziğin büyüsüne kapıl!"
+
+
+
+
+
+}
